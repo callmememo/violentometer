@@ -1,0 +1,6 @@
+framework module Pods_violentometro {
+  umbrella header "Pods-violentometro-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SelectionList (1.3.0)
+
+DEPENDENCIES:
+  - SelectionList
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SelectionList
+
+SPEC CHECKSUMS:
+  SelectionList: 4f4c720baf48f3d19c28d0622a43cbef237bb984
+
+PODFILE CHECKSUM: 4359866d122375383ce5252c8defd88c9e8c7baf
+
+COCOAPODS: 1.5.3
